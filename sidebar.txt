@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lmo:home|Door43 (lmo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lmo|d43-lmo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lmo/archive/master.zip|d43-lmo.zip]]
+
+**Recent Changes**
+{{changes>ns = lmo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lmo|Ethnologue data]]
+
